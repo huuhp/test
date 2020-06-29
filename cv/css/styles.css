@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+    margin: 0;
+    line-height: 2;
+}
+
+.hero {
+    background-color: #EAf6f6;
+    padding: 50px 0 0;
+    margin: 0 0 50px;
+    line-height: 0;
+}
+
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: 'Nunito', sans-serif;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+hr {
+    border-color:#EAf6f6;
+    border-style: dotted none none;
+    border-width: 0.8rem;
+    width: 30%;
+    margin: 10% auto;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 30%;
+}
+
+.bottom-cloud { 
+    position: absolute;
+    left: 30%;
+}
+
+.skill-row {
+    display: inline-block;
+    text-align: left;
+    margin: 50px auto;
+}
+
+.profile-picture {
+    width: 180px;
+    height: 180px;
+}
+
+.customer-journey-skill {
+    width: 180px;
+    height: 180px;
+    float: left;
+}
+
+.marketing-automation-skill {
+    width: 180px;
+    height: 180px;
+    float: right;
+}
+
+.introduction {
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+}
+
+.button_contact-me {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #1D7C7C);
+    background-image: -moz-linear-gradient(top, #66BFBF, #1D7C7C);
+    background-image: -ms-linear-gradient(top, #66BFBF, #1D7C7C);
+    background-image: -o-linear-gradient(top, #66BFBF, #1D7C7C);
+    background-image: linear-gradient(to bottom, #66BFBF, #1D7C7C);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;    
+    font-size: 1rem;
+    font-weight: 50;
+    padding: 0.5rem;
+    margin: 30px auto;
+    box-shadow: 1px 1px 10px 0px #000000;
+    -webkit-box-shadow: 1px 1px 10px 0px #000000;
+    -moz-box-shadow: 1px 1px 10px 0px #000000;
+    text-shadow: 1px 1px 10px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+    .button_contact-me:hover {
+    border: solid #66BFBF 1px;
+    background: #1D7C7C;
+    background-image: -webkit-linear-gradient(top, #1D7C7C, #66BFBF);
+    background-image: -moz-linear-gradient(top, #1D7C7C, #66BFBF);
+    background-image: -ms-linear-gradient(top, #1D7C7C, #66BFBF);
+    background-image: -o-linear-gradient(top, #1D7C7C, #66BFBF);
+    background-image: linear-gradient(to bottom, #1D7C7C, #66BFBF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+
+.contact {
+    margin: 0 auto 2.5rem;
+}
+
+footer {
+    background-color: #66BFBF;
+
+}
+
+.social {
+    display: inline-block;
+    margin: 2rem auto;
+    font-family: 'Nunito', sans-serif;
+    color: #EAF6F6;
+}
+
+td {
+    padding: 0 2rem;
+}
